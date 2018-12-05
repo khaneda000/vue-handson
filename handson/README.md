@@ -5,7 +5,7 @@ https://vuejs.org/v2/guide/
 
 ## Tasks1: Preparation
 
-- show level1/index.html
+- show handson/index.html
 - show chrome plugin and check enable plugin
 
 ## Task2: Hello World
